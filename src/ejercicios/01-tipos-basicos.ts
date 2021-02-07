@@ -10,7 +10,7 @@ let person: string = "sara";
 let number: number | string = 95;
 let vivo : boolean = false;
 
-nombre = 'Fernando';
-hp = 'lola';
+person = 'Fernando';
+number = 'lola';
 
-console.log(nombre, hp, alive);
+console.log(person, number, vivo);

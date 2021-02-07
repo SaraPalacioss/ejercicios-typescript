@@ -1,16 +1,24 @@
-
-
-console.log('Hola Mundo!!!!');
-
 /*
     ===== Código de TypeScript =====
 */
 
-let nombre: string = "sara";
-let hp: number | string = 95;
-let alive : boolean = false;
+// let habilidades: string[] = ['Bash', 'Counter', 'Healing'];
 
-nombre = 'Fernando';
-hp = 'lola';
 
-console.log(nombre, hp, alive);
+// interface Personaje {
+//     nombre: string;
+//     hp: number;
+//     habilidades: string[];
+//     puebloNatal?: string;
+// }
+
+// const personaje : Personaje = {
+//     nombre: 'sara',
+//     hp: 100,
+//     habilidades: ['Bash', 'Counter', 'Healing']
+// }
+
+// personaje.puebloNatal = 'Pueblo Paleta';
+
+
+// console.table(personaje);
